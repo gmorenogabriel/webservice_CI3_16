@@ -1,0 +1,8 @@
+Para probar :
+
+Levantar xampp
+revisar que exista una DataBase llamada : ebservice
+revisar que exista una Tabla    llamada : SELECT * FROM `usuario`
+
+desde Chrome: http://localhost:8084/webservice/index.php/welcome/getUserById/4
+
